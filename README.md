@@ -15,7 +15,7 @@ Integer Division (//)
 Exit
 
 # Usage
-* Menu * 
+* Menu -
 The program displays a menu with the available arithmetic operations. The user can select an operation by entering the corresponding number.
 
 
