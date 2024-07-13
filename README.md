@@ -34,8 +34,11 @@ Please select an operation (1-8):
 # Input
 
 After selecting an operation, the user is prompted to enter two numbers:
+
 Please enter the first number:
+
 Please enter the second number:
+
 # Output
 
 The program performs the selected operation and displays the result:
